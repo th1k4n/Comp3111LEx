@@ -1,8 +1,9 @@
-# COMP3111 Lab 1: Introduction to IntelliJ
+# COMP3111 
+## Lab 1: Introduction to IntelliJ
 > tbh I like to use VSCode more than IntelliJ, for the general purpose
 
-## Screenshot as required
-_missing_
+# Screenshot as required
+![Screenshot](./src/main/java/Lab1/img/Screenshot.png)
 
 ## Side Notes
 <details> 
